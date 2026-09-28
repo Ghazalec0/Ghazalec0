@@ -77,12 +77,6 @@ You can reach me via email, LinkedIn, or follow me on GitHub 👇
 * 🏛️ Exploring **Clean Architecture, Design Patterns & SOLID principles**
 ---
 
-## 📊 GitHub Stats
 
-![Abdelrahman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ghazalec0\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghazalec0\&layout=compact\&theme=tokyonight)
-
----
 
 ### 💡 "Code. Learn. Build. Repeat." 🚀
